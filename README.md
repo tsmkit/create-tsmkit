@@ -1,3 +1,3 @@
-# create-tsmod
+# create-tsmkit
 
-Run bun create tsmod ./my-tsmod.
+Run bun create tsmkit ./my-tsmkit.

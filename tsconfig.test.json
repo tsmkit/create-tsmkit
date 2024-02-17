@@ -37,9 +37,7 @@
     "types": [
       "@types/bun",
       "@types/web",
-      "@types/node",
-      "cypress",
-      "cypress-real-events"
+      "@types/node"
     ],
     // "allowUmdGlobalAccess": true,                     /* Allow accessing UMD globals from modules. */
     // "moduleSuffixes": [],                             /* List of file name suffixes to search when resolving a module. */
@@ -107,8 +105,5 @@
     "build",
     "dist",
     "node_modules"
-  ],
-  "include": [
-    "tests/types/**/*"
   ]
 }
